@@ -1,2 +1,3 @@
 # goaty-humpitz
-General bs
+<doctype.html>
+Learning about github
